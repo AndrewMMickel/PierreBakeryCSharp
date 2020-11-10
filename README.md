@@ -1,6 +1,6 @@
-# _Numbers To Words_
+# _Pierre's Bakery_
 
-#### _Numbers to Words, 10/28/2020_
+#### _Pierre's Bakery, 11/10/2020_
 
 #### By _Andrew Mickel_
 
